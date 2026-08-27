@@ -16,12 +16,12 @@
 
 > Learning slowly, growing quietly.
 
-* 🎓 Graduate student
-* 🤖 Interested in **Robotics & Intelligent Systems**
-* 🌷 Currently learning **Reinforcement Learning**
-* 🧠 Exploring **Intelligent Optimization & Genetic Algorithms**
-* 🛠️ Working with **MATLAB · Python · ROS**
-* 📖 Learning, experimenting, and documenting along the way
+* 🎓 
+* 🤖 
+* 🌷 
+* 🧠
+* 🛠️ 
+* 📖 
 
 <br/>
 
@@ -97,7 +97,7 @@ My current interests include:
 
 *Little by little, everything begins to bloom.*
 
-`is747 · 77`
+`is747`
 
 <br/>
 
