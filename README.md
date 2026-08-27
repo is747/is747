@@ -4,7 +4,7 @@
 
 ### ✦ 7 4 7 的 大 脑 ✦
 
-**坚持自我**
+**坚 持 自 我**
 
 <img src="https://komarev.com/ghpvc/?username=is747&label=Profile%20Views&color=C8A2C8&style=flat-square"/>
 
@@ -16,12 +16,12 @@
 
 > Learning slowly, growing quietly.
 
-* 🎓 
-* 🤖 
-* 🌷 
-* 🧠
-* 🛠️ 
-* 📖 
+* 🎓 xxxx
+* 🤖 Interested in **Robotics & Intelligent Systems**
+* 🌷 Currently learning **Reinforcement Learning**
+* 🧠 Exploring **xxxx**
+* 🛠️ Working with **xxxx**
+* 📖 xxxx
 
 <br/>
 
@@ -29,11 +29,16 @@
 
 <div align="center">
 
-
+<img src="https://img.shields.io/badge/xxx%20xxx-F3D5EC?style=for-the-badge&logoColor=555555"/>
+<img src="https://img.shields.io/badge/xxx-E6D6F5?style=for-the-badge&logoColor=555555"/>
+<img src="https://img.shields.io/badge/xxx%20xxx-DCC6F2?style=for-the-badge&logoColor=555555"/>
 
 <br/>
 
-
+<img src="https://img.shields.io/badge/MATLAB-F6D6E6?style=for-the-badge&logo=mathworks&logoColor=555555"/>
+<img src="https://img.shields.io/badge/Python-E9D8F4?style=for-the-badge&logo=python&logoColor=555555"/>
+<img src="https://img.shields.io/badge/ROS-DED3F3?style=for-the-badge&logo=ros&logoColor=555555"/>
+<img src="https://img.shields.io/badge/GitHub-F4DFEC?style=for-the-badge&logo=github&logoColor=555555"/>
 
 </div>
 
@@ -42,19 +47,34 @@
 ## ♡ Research Interests
 
 ```text
-
+xxxx
+        ↓
+xxxx
+        ↓
+xxxx
+        ↓
+xxxx
 ```
 
 My current interests include:
 
-
+* xxx
+* xxx
+* xxx
+* xxx
+* xxx
+* xxx
 
 <br/>
 
 ## ✦ Current Journey
 
 ```text
-
+01  Learning reinforcement learning from the beginning
+02  Reading and reproducing research papers
+03  Exploring GA / IGA / RL-GA / RL-IGA
+04  Building simulation experiments
+05  Moving from simulation toward robotic platforms
 ```
 
 <br/>
@@ -77,7 +97,7 @@ My current interests include:
 
 *Little by little, everything begins to bloom.*
 
-`is747`
+`is747 · 77`
 
 <br/>
 
